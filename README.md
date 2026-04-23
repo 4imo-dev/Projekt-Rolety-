@@ -1,1 +1,5 @@
-"# Projekt-Rolety-" 
+"# Projekt-Rolety " 
+
+Autorzy:
+- Martyna Moczała
+- Tomasz Paleczny
